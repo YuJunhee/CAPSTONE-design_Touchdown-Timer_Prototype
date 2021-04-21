@@ -10,9 +10,9 @@ Every codes in this project has been updated by Yu Junhee, furthermore this is g
 after assemble step. 
 
 ----------------------------------------------------------------------------------
-Project Title: Touchdown Timer
-Author: Yu Junhee
-code which is allocated: Calendar
-IDE: VSC
-language: Dart
+Project Title: Touchdown Timer//
+Author: Yu Junhee//
+code which is allocated: Calendar//
+IDE: VSC//
+language: Dart//
 ----------------------------------------------------------------------------------
