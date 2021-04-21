@@ -14,11 +14,11 @@ Project Title: Touchdown Timer
 
 Author: Yu Junhee
 
-code which is allocated: Calendar
+Code which is allocated: Calendar
 
 IDE: VSC
 
-language: Dart
+Language: Dart
 
 ----------------------------------------------------------------------------------------
 
